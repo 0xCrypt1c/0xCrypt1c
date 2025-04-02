@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0xCrypt1c
-- 👀 I’m interested in Monzy
+- 👀 I’m interested in Rubber Duckies
 - 🌱 I’m currently learning how to use git
 - 💞️ I’m looking to collaborate on hacking OreSec
 - 📫 How to reach me nyxvortex21@gmail.com
